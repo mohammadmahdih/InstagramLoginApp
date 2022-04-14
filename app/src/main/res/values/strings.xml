@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InstagramLogin</string>
+    <string name="username">Phone number, email or username</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="login">Log in</string>
+    <string name="facebook">Log in with Facebook</string>
+    <string name="or">OR</string>
+    <string name="dontha">Don’t have an account?</string>
+    <string name="signup">Sign up.</string>
+</resources>
